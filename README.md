@@ -1,1 +1,1 @@
-# Multiple_Linear_Regression_50Startups
+# startup_profit_prediction_multiple_linear_regression
